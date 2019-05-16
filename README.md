@@ -1,4 +1,6 @@
 # shellscript-challenge
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/helcorin/shellscript-challenge/commits/master) [![Fiap](https://img.shields.io/badge/Fiap-2018-ff0080.svg)](https://www.fiap.com.br/) [![Linkedin](https://img.shields.io/badge/Linkedin-hpinfo-00BFFF.svg)](https://www.linkedin.com/in/hpinfo/)
+
 NAC 20 para a Disciplina Soluções em Redes para Sistemas Linux da turma 2TRCR
 
 ![shell](images/shell-1847458_640.jpg)
@@ -33,3 +35,7 @@ A execução deve ser intuitiva ou possuir uma boa documentação, utilizar o RE
 ## Entrega: 
 
 Publicar a **versão ZIP do código extraída do github** na sessão de trabalhos com o **Link para o repositório GIT como comentário**; 
+
+---
+
+**Free Software, Hell Yeah!**
